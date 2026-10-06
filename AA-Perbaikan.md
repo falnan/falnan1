@@ -1,0 +1,1 @@
+1. Policy agar author tidak postvisibility dan poststatus terbatas belum diatur.

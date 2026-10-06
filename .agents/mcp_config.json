@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "wsl.exe",
+            "args": [
+                "/home/falnan/.config/herd-lite/bin/php",
+                "/home/falnan/projects/falnan-filament/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
